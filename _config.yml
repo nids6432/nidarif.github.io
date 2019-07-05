@@ -4,7 +4,7 @@
 title: Nida Arif
 
 # Short description of your site
-description: Data Enthusiast | Data Scientist 
+description: This is my webiste which talk about the work I do and my thoughts in general 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -69,11 +69,11 @@ author:
 social-network-links:
   rss: true
   email: "nids6432@gmail.com"
-  facebook: nida.arif
+#  facebook: nida.arif
   github: nidarif.github.io
 #  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: in/nida-arif-433a4932/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
