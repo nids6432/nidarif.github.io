@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: A little about me
 ---
-
+![Me](/img/Me.png)
 My name is **Nida Arif** and I'm a data analyst focused on solving problems in Retail, Loyalty and Marketing. Some of the work that I have done revolves around optimizing targeted marketing campaigns and mass campaigns, measuring incremental effect of promotions, pre-post campaign analysis, recommending ideal product bunndles and creating customer segments. 
 
 Thanks to my experience in product development, I also have a knack of doing this quickly by writing re-usable macros and functions. 
