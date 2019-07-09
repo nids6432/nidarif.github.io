@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A little about me
+subtitle: Very briefly
 ---
 ![Me](/img/Me.png)
 
