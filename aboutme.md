@@ -11,6 +11,7 @@ Thanks to my experience in product development, I also have a knack of doing thi
 
 In my spare time, I always try to upskill, either by taking a new course or learning a new language/technology. Oh and I also love cooking! 
 
-### my history
+### my emplyment history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Currently I am working as a Senior Analyst, Customer Intelligence at Indigo Books & Music, Toronto
+I have also worked at Lowe's Data Analytics and Customer Insights team and have had consulting jobs in Marketing Data Science. One of my biggest client was a global coffee and CPG company. 
