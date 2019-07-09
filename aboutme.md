@@ -4,12 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Nida Arif** and I'm a data analyst focused on solving problems in Retail, Loyalty and Marketing. Some of the work that I have done revolves around optimizing targeted marketing campaigns and mass campaigns, measuring incremental effect of promotions, recommending ideal product bunndles and creating customer segments. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Thanks to my experience in product development, I also have a knack of doing this quickly by writing re-usable macros and functions. 
 
-What else do you need?
+In my spare time, I always try to upskill, either by taking a new course or learning a new language/technology. Oh and I also love cooking! 
 
 ### my history
 
