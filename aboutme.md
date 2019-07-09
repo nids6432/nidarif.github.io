@@ -13,5 +13,5 @@ In my spare time, I always try to upskill, either by taking a new course or lear
 
 ### my emplyment history
 
-Currently I am part of the the **Customer Intelligence** at Indigo Books & Music, Toronto
-I have also worked at **Lowe's Data Analytics and Customer Insights** team and have had consulting jobs in **Marketing Data Science**. One of my biggest client was a global coffee and CPG company. 
+Currently I am part of the the **Customer Intelligence** at [Indigo Books & Music, Toronto](https://www.chapters.indigo.ca/en-ca/)
+I have also worked at **[Lowe's](https://www.lowes.ca/) Data Analytics and Customer Insights** team and have had consulting jobs in **Marketing Data Science**. One of my biggest client was a global coffee and CPG company. 
